@@ -1,1 +1,10 @@
+-- Data Import Instructions
+-- Run this command in SQL Shell (psql), NOT in pgAdmin or VS Code:
 
+\COPY sales FROM 'C:/Users/YOUR_USERNAME/Downloads/WalmartSalesData.csv' 
+WITH (FORMAT csv, HEADER true);
+
+-- Notes:
+-- 1. Replace YOUR_USERNAME with your actual Windows username
+-- 2. Ensure the CSV file is closed (not open in Excel) before running
+-- 3. If you get permission errors, move the file to C:/tmp/ and update the path
