@@ -1,1 +1,17 @@
+# Environment variables
+.env
 
+# Python
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large data files (optional - keep repo lightweight)
+*.csv
+*.xlsx
+*.db
