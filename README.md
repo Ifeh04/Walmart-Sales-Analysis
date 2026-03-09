@@ -14,7 +14,7 @@ Analyze sales transactions across multiple branches to answer key business quest
 ## 📊 Key Insights
 
 ### 💰 Top Revenue-Generating Product Lines
-![Revenue by Product Line](images/01_revenue_by_product_line.png)
+![Revenue by Product Line](images/Revenue_by_Product_Line.png)
 - **Food & Beverages** led with $56,144.96 in revenue
 - Top 3 product lines account for ~30% of total revenue
 
