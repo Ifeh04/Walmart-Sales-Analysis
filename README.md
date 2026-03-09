@@ -61,3 +61,11 @@ Analyze sales transactions across multiple branches to answer key business quest
 -- • time_of_day: Morning/Afternoon/Evening segmentation
 -- • day_of_week: Extracted from date for trend analysis  
 -- • month: For seasonal revenue analysis
+
+## 📥 Data Source
+
+- **Original Dataset**: [Walmart Sales Dataset on Kaggle](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data)
+- **License**: CC0: Public Domain
+- **Sample Included**: `doc/walmart_sales_sample.csv` (200 rows for testing)
+
+> 💡 To run the full analysis, download the complete dataset from the link above and update the path in `/sql/02_data_import.sql`.
