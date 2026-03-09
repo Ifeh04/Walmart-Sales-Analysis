@@ -25,11 +25,26 @@ Analyze sales transactions across multiple branches to answer key business quest
 
 ### 🌆 Branch Performance by City
 ![Revenue by City](images/03_revenue_by_city.png)
-- [City] generated the highest revenue
+- Naypyitaw generated the highest revenue
 
 ### 👥 Customer Segmentation
 ![Customer Type Revenue](images/06_customer_type_revenue.png)
-- [Customer type] contributed [X]% of total revenue
+- Members contributed 50.8% of total revenue
+
+### 📦 Most Selling Product Line by Volume
+![Quantity by Product Line](images/04_quantity_by_product_line.png)
+- **Electronic accessories** led with 971 units sold
+- High-volume items may indicate strong customer demand or effective pricing
+
+### ⏰ Sales Patterns: Time of Day × Weekday
+![Sales Heatmap](images/05_sales_heatmap.png)
+- Peak transaction volume occured during **Evening** on **Saturday**
+- Use this insight to optimize staffing, promotions, and inventory restocking
+
+### ⭐ Customer Satisfaction by Product Line
+![Rating by Product Line](images/07_rating_by_product_line.png)
+- Highest-rated category: **Food and Beverages** with avg. rating of **7.11/10**
+- Consider expanding high-rated lines or investigating success factors
 
 ## 🔍 Business Questions Answered
 ✅ How many unique cities/branches in the dataset?  
