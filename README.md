@@ -20,8 +20,9 @@ Analyze sales transactions across multiple branches to answer key business quest
 
 ### 📈 Monthly Revenue Trend
 ![Monthly Revenue](images/02_revenue_trend_monthly.png)
-- Peak sales occurred in [Month]
-- [Add brief insight about pattern]
+- Peak sales occurred in January.
+- January led Q1 with $116,292.11 in revenue, followed by March ($109,455.74) and February ($97,219.58).
+- The 16.4% February dip suggests post-holiday spending fatigue, with 12.6% recovery in March
 
 ### 🌆 Branch Performance by City
 ![Revenue by City](images/03_revenue_by_city.png)
